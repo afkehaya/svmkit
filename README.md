@@ -10,7 +10,7 @@ SVMKit is a suite of tools designed to make building, maintaining, and operating
 
 - **Rapid Setup for Chain Builders**: Go from genesis block to a multi-node cluster in under an hour, enabling fast deployment and network scalability.
   
-- **Streamlined Operations for Node Operators**: Join any supported fork of the Solana Validator client in under two minutes, bringing ease and efficiency to node operation.
+- **Streamlined Operations for Node Operators**: Join any fork of Solana with a supported Validator client in under two minutes, bringing ease and efficiency to node operation.
 
 - **Ecosystem Services**: Enjoy integrated RPC, Wallet Support, and main net contracts, giving you access to essential ecosystem services and the flexibility to work with main net providers without custom integrations.
 
